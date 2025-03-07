@@ -54,10 +54,13 @@ My research interests include multi-agent systems, reinforcement learning, and t
 - P. Zhou, G.J. Liu, J.C. Wang, Q.L. Weng, K.W. Zhang, <u>Z.Y. Zhou</u>, Lightweight unmanned aerial vehicle video object detection based on spatial-temporal correlation, International Journal of Communication Systems 35 (17), e5334, 2022.
 
 # 📖 Educations
+
 *Sep. 2020 – Mar. 2026 (expected)*, **Tongji University**, 
 - *Doctoral student* in Department of Computer Science and Technology. 
+
 *Jun. 2024 – Dec. 2024*, **New Jersey Institution of Technology**, 
 - *Joint Ph.D student* in Department of Electrical and Computer Engineering. 
+
 *Sep. 2016 – Jul. 2020*, **China University of Mining and Technology**, 
 - *Bachelor student* in Electronic Information Science and Technology, College of Computer Science and Technology. (Rank: 5/134). 
 
