@@ -62,7 +62,7 @@ My research interests include multi-agent systems, reinforcement learning, and t
 - *Joint Ph.D student* in Department of Electrical and Computer Engineering. 
 
 *Sep. 2016 – Jul. 2020*, **China University of Mining and Technology**
-- *Bachelor student* in Electronic Information Science and Technology, College of Computer Science and Technology. (Rank: 5/134). 
+- *Bachelor student* in Electronic Information Science and Technology, College of Computer Science and Technology (Rank: 5/134). 
 
 # 🎖 Honors and Awards
 - *Nov. 2024*, BYD scholarship at Tongji University. 
