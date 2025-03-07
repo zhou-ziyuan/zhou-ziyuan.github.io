@@ -41,17 +41,17 @@ My research interests include multi-agent systems, reinforcement learning, and t
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
-- <u>Z.Y. Zhou</u>, G.J. Liu, [Robustness Testing for Multi-Agent Reinforcement Learning: State Perturbations on Critical Agents](https://ebooks.iospress.nl/doi/10.3233/FAIA230632), 26th European Conference on Artificial Intelligence (ECAI 2023), 372, 3131-3139.
+- <u>Z.Y. Zhou</u>, G.J. Liu, [Robustness Testing for Multi-Agent Reinforcement Learning: State Perturbations on Critical Agents](https://ebooks.iospress.nl/doi/10.3233/FAIA230632), 26th European Conference on Artificial Intelligence (ECAI 2023).
 - <u>Z.Y. Zhou</u>, G.J. Liu, M.C. Zhou,[A robust mean-field actor-critic reinforcement learning against adversarial perturbations on agent states](https://ieeexplore.ieee.org/document/10143665), IEEE Transactions on Neural Networks and Learning Systems, 2024.
 - <u>Z.Y. Zhou</u>, G.J. Liu, W.R. Guo, M.C. Zhou, [Adversarial Attacks on Multiagent Deep Reinforcement Learning Models in Continuous Action Space](https://ieeexplore.ieee.org/abstract/document/10684240), IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2024.
 - <u>Z.Y. Zhou</u>, G.J. Liu, Y. Tang, [Multiagent Reinforcement Learning: Methods, Trustworthiness, Applications in Intelligent Vehicles, and Challenges](https://ieeexplore.ieee.org/abstract/document/10546304), IEEE Transactions on Intelligent Vehicles, 2024.
-- H.R. Shi, G.J. Liu, K.W. Zhang, <u>Z.Y. Zhou</u>, J.C. Wang, MARL Sim2Real transfer: Merging physical reality with digital virtuality in metaverse, IEEE Transactions on Systems, Man, and Cybernetics: Systems 53 (4), 2107-2117, 2023.
-- S.T. Chen, G.J. Liu, <u>Z.Y. Zhou</u>, K.W. Zhang, J.C. Wang, Robust multi-agent reinforcement learning method based on adversarial domain randomization for real-world dual-uav cooperation, IEEE Transactions on Intelligent Vehicles, 9 (1), 1615-1627, 2024.
-- J. Xue, Z.N. Liu, G.J. Liu, <u>Z.Y. Zhou</u>, K.W. Zhang, Y. Tang, J.C. Wang, Robust wind-resistant hovering control of quadrotor UAVs using deep reinforcement learning, IEEE Transactions on Intelligent Vehicles.
+- H.R. Shi, G.J. Liu, K.W. Zhang, <u>Z.Y. Zhou</u>, J.C. Wang, MARL Sim2Real transfer: Merging physical reality with digital virtuality in metaverse, IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2023.
+- S.T. Chen, G.J. Liu, <u>Z.Y. Zhou</u>, K.W. Zhang, J.C. Wang, Robust multi-agent reinforcement learning method based on adversarial domain randomization for real-world dual-uav cooperation, IEEE Transactions on Intelligent Vehicles, 2024.
+- J. Xue, Z.N. Liu, G.J. Liu, <u>Z.Y. Zhou</u>, K.W. Zhang, Y. Tang, J.C. Wang, Robust wind-resistant hovering control of quadrotor UAVs using deep reinforcement learning, IEEE Transactions on Intelligent Vehicles, 2024.
 - M. Yang, G.J. Liu, <u>Z.Y. Zhou</u>, J.C. Wang, Probabilistic Automata-based Method for Enhancing Performance of Deep Reinforcement Learning Systems, IEEE/CAA Journal of Automatica Sinica, 2024.
-- W.R. Guo, G.J. Liu, <u>Z.Y. Zhou</u>, L. Wang, J.C. Wang, Enhancing the robustness of qmix against state-adversarial attacks, Neurocomputing, 572(1), 2024.
-- M. Yang, G.J. Liu, <u>Z.Y. Zhou</u>, J.C. Wang, Partially observable mean field multi-agent reinforcement learning based on graph attention network for UAV swarms, Drones 7 (7), 476, 2023.
-- P. Zhou, G.J. Liu, J.C. Wang, Q.L. Weng, K.W. Zhang, <u>Z.Y. Zhou</u>, Lightweight unmanned aerial vehicle video object detection based on spatial-temporal correlation, International Journal of Communication Systems 35 (17), e5334, 2022.
+- W.R. Guo, G.J. Liu, <u>Z.Y. Zhou</u>, L. Wang, J.C. Wang, Enhancing the robustness of qmix against state-adversarial attacks, Neurocomputing, 2024.
+- M. Yang, G.J. Liu, <u>Z.Y. Zhou</u>, J.C. Wang, Partially observable mean field multi-agent reinforcement learning based on graph attention network for UAV swarms, Drones, 2023.
+- P. Zhou, G.J. Liu, J.C. Wang, Q.L. Weng, K.W. Zhang, <u>Z.Y. Zhou</u>, Lightweight unmanned aerial vehicle video object detection based on spatial-temporal correlation, International Journal of Communication Systems, 2022.
 
 # 📖 Educations
 
