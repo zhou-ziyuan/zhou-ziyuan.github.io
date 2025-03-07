@@ -55,13 +55,13 @@ My research interests include multi-agent systems, reinforcement learning, and t
 
 # 📖 Educations
 
-*Sep. 2020 – Mar. 2026 (expected)*, **Tongji University**, 
+*Sep. 2020 – Mar. 2026 (expected)*, **Tongji University**
 - *Doctoral student* in Department of Computer Science and Technology. 
 
-*Jun. 2024 – Dec. 2024*, **New Jersey Institution of Technology**, 
+*Jun. 2024 – Dec. 2024*, **New Jersey Institution of Technology**
 - *Joint Ph.D student* in Department of Electrical and Computer Engineering. 
 
-*Sep. 2016 – Jul. 2020*, **China University of Mining and Technology**, 
+*Sep. 2016 – Jul. 2020*, **China University of Mining and Technology**
 - *Bachelor student* in Electronic Information Science and Technology, College of Computer Science and Technology. (Rank: 5/134). 
 
 # 🎖 Honors and Awards
