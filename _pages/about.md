@@ -40,7 +40,7 @@ My research interests include multi-agent systems, reinforcement learning, and t
 </div>
 </div> -->
 - <u>Z.Y. Zhou</u>, G.J. Liu, [Robustness Testing for Multi-Agent Reinforcement Learning: State Perturbations on Critical Agents](https://ebooks.iospress.nl/doi/10.3233/FAIA230632), 26th European Conference on Artificial Intelligence (ECAI 2023).
-- <u>Z.Y. Zhou</u>, G.J. Liu, M.C. Zhou,[A robust mean-field actor-critic reinforcement learning against adversarial perturbations on agent states](https://ieeexplore.ieee.org/document/10143665), IEEE Transactions on Neural Networks and Learning Systems, 2024.
+- <u>Z.Y. Zhou</u>, G.J. Liu, M.C. Zhou,[A robust mean-field actor-critic reinforcement learning against adversarial perturbations on agent states](https://ieeexplore.ieee.org/document/10143665), IEEE Transactions on Neural Networks and Learning Systems, 2023.
 - <u>Z.Y. Zhou</u>, G.J. Liu, W.R. Guo, M.C. Zhou, [Adversarial Attacks on Multiagent Deep Reinforcement Learning Models in Continuous Action Space](https://ieeexplore.ieee.org/abstract/document/10684240), IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2024.
 - <u>Z.Y. Zhou</u>, G.J. Liu, Y. Tang, [Multiagent Reinforcement Learning: Methods, Trustworthiness, Applications in Intelligent Vehicles, and Challenges](https://ieeexplore.ieee.org/abstract/document/10546304), IEEE Transactions on Intelligent Vehicles, 2024.
 - H.R. Shi, G.J. Liu, K.W. Zhang, <u>Z.Y. Zhou</u>, J.C. Wang, MARL Sim2Real transfer: Merging physical reality with digital virtuality in metaverse, IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2023.
