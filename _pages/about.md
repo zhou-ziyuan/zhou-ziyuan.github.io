@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 🆔 About Me
-I am a PhD candidate at Tongji University, advised by Prof. [Guanjun Liu](https://flml.tongji.edu.cn/info/1094/1116.htm). I was a visiting student at the New Jersey Institute of Technology, advised by Prof. [MengChu Zhou](https://web.njit.edu/~zhou/).
+I am a Ph.D. candidate at Tongji University, advised by Prof. [Guanjun Liu](https://flml.tongji.edu.cn/info/1094/1116.htm). I was a visiting student at the New Jersey Institute of Technology, advised by Prof. [MengChu Zhou](https://web.njit.edu/~zhou/).
 
 My research interests include multi-agent systems, reinforcement learning, and trustworthy AI, as well as their applications in human-cyber-physical systems (e.g., autonomous UAV collaboration).
 
@@ -54,13 +54,13 @@ My research interests include multi-agent systems, reinforcement learning, and t
 # 📖 Educations
 
 *Sep. 2020 – Mar. 2026 (expected)*, **Tongji University**
-- *Doctoral student* in Department of Computer Science and Technology. 
+- *Ph.D. Candidate* in Computer Science and Technology. 
 
-*Jun. 2024 – Dec. 2024*, **New Jersey Institution of Technology**
-- *Joint Ph.D student* in Department of Electrical and Computer Engineering. 
+*Jun. 2024 – Dec. 2024*, **New Jersey Institute of Technology**
+- *Visiting Ph.D. Student* in the Department of Electrical and Computer Engineering
 
 *Sep. 2016 – Jul. 2020*, **China University of Mining and Technology**
-- *Bachelor student* in Electronic Information Science and Technology, College of Computer Science and Technology (Rank: 5/134). 
+- *B.Eng.* in Electronic Information Science and Technology, College of Computer Science and Technology (Rank: 5/134). 
 
 # 🎖 Honors and Awards
 - *Dec. 2024*, Outstanding graduate student scholarship at Tongji University (BYD scholarship). 
