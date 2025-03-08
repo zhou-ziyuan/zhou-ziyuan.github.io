@@ -21,7 +21,7 @@ I am a PhD candidate at Tongji University, advised by Prof. [Guanjun Liu](https:
 
 
 
-My research interests include multi-agent systems, reinforcement learning, trustworthy AI and their applications in human-cyber-physical systems(e.g., autonomous drone collaboration).
+My research interests include multi-agent systems, reinforcement learning, trustworthy AI, and their applications in human-cyber-physical systems(e.g., autonomous drone collaboration).
 
 
 <!-- # 🔥 News
