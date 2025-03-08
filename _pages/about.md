@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-# <i class="fa fa-id-card"></i> About Me
+# 🆔 About Me
 I am a PhD candidate at Tongji University, advised by Prof. [Guanjun Liu](https://flml.tongji.edu.cn/). I was a visiting student at the New Jersey Institute of Technology, advised by Prof. [MengChu Zhou](https://web.njit.edu/~zhou/).
 
 
