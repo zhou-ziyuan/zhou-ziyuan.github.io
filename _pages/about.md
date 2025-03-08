@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 💻 About Me
-I am a PhD student at Tongji University, advised by Prof. [Guanjun Liu](https://flml.tongji.edu.cn/). I was a visiting student at the New Jersey Institute of Technology, advised by Prof. [MengChu Zhou](https://web.njit.edu/~zhou/).
+I am a PhD candidate at Tongji University, advised by Prof. [Guanjun Liu](https://flml.tongji.edu.cn/). I was a visiting student at the New Jersey Institute of Technology, advised by Prof. [MengChu Zhou](https://web.njit.edu/~zhou/).
 
 
 
@@ -71,8 +71,9 @@ My research interests include multi-agent systems, reinforcement learning, and t
 
 
 
-# 💬 Invited Talks
+# 💬 Presentations
 - *Dec. 19, 2024*, **2024 IEEE International Workshop on Semiconductor Manufacturing Automation and Robotics**, Trustworthy Multi-Agent Reinforcement Learning under Adversarial Perturbations.
 
-<!-- # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+# 💻 Services
+- Reviewer for multiple internationally renowned journals, including IEEE Transactions on Services Computing (T-SC), IEEE Transactions on Systems, Man, and Cybernetics (T-SMC), IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), IEEE Transactions on Cybernetics (T-CYB), IEEE Transactions on Computational Social Systems (T-CSS), and IEEE Internet of Things Journal (IOTJ).
+- Reviewer for the IEEE International Conference on Robotics and Automation (ICRA).
