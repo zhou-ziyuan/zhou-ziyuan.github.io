@@ -39,6 +39,7 @@ My research interests include multi-agent systems, reinforcement learning, and t
 <!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
+- <u>Z.Y. Zhou</u>, G.J. Liu, M.C. Zhou, W.R. Guo, Robust multi-agent reinforcement learning with stochastic adversary, 42nd International Conference on Machine Learning (ICML 2025). (Accepted) 
 - <u>Z.Y. Zhou</u>, G.J. Liu, [Robustness Testing for Multi-Agent Reinforcement Learning: State Perturbations on Critical Agents](https://ebooks.iospress.nl/doi/10.3233/FAIA230632), 26th European Conference on Artificial Intelligence (ECAI 2023).
 - <u>Z.Y. Zhou</u>, G.J. Liu, M.C. Zhou,[A robust mean-field actor-critic reinforcement learning against adversarial perturbations on agent states](https://ieeexplore.ieee.org/document/10143665), IEEE Transactions on Neural Networks and Learning Systems, 2023.
 - <u>Z.Y. Zhou</u>, G.J. Liu, W.R. Guo, M.C. Zhou, [Adversarial Attacks on Multiagent Deep Reinforcement Learning Models in Continuous Action Space](https://ieeexplore.ieee.org/abstract/document/10684240), IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2024.
