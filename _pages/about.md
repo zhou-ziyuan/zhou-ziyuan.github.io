@@ -78,4 +78,4 @@ My research interests include multi-agent systems, reinforcement learning, and t
 
 # 💻 Services
 - Reviewer for multiple internationally renowned journals, including IEEE Transactions on Services Computing (T-SC), IEEE Transactions on Systems, Man, and Cybernetics (T-SMC), IEEE Transactions on Neural Networks and Learning Systems (T-NNLS), IEEE Transactions on Cybernetics (T-CYB), IEEE Transactions on Computational Social Systems (T-CSS), and IEEE Internet of Things Journal (IOTJ).
-- Reviewer for the IEEE International Conference on Robotics and Automation (ICRA).
+- Reviewer for the IEEE International Conference on Robotics and Automation (ICRA) and IEEE International Conference on Systems, Man, and Cybernetics (SMC).
