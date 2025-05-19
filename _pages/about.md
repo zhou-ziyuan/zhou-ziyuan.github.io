@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # 🆔 About Me
-I am a Ph.D. candidate at Tongji University, advised by Prof. [Guanjun Liu]([https://flml.tongji.edu.cn/info/1094/1116.htm](https://scholar.google.com/citations?user=iVv-i3oAAAAJ&hl=en)). I was a visiting student at the New Jersey Institute of Technology, advised by Prof. [MengChu Zhou](https://web.njit.edu/~zhou/).
+I am a Ph.D. candidate at Tongji University, advised by Prof. [Guanjun Liu](https://scholar.google.com/citations?user=iVv-i3oAAAAJ&hl=en). I was a visiting student at the New Jersey Institute of Technology, advised by Prof. [MengChu Zhou](https://web.njit.edu/~zhou/).
 
 My research interests include multi-agent systems, reinforcement learning, and trustworthy AI, as well as their applications in human-cyber-physical systems (e.g., autonomous UAV collaboration).
 
